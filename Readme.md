@@ -5,3 +5,6 @@ Bollinger Band<br>
 Volume Graph<br>
 Resistance Line<br>
 Support Line<br>
+
+
+Thank you!!
